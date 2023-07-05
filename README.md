@@ -1,6 +1,6 @@
 # nltk-telgram-db
 
-This project contains two guides: **NLTK Guide** and **Telegram Group Analysis**.
+This project contains two parts: **NLTK Guide** and **Telegram Group Analysis**.
 
 ## NLTK Guide
 
